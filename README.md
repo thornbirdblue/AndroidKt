@@ -1,2 +1,2 @@
 # HelloKt
-development/samples/HelloKt
+developers/samples/HelloKt
